@@ -1,0 +1,2 @@
+# Ahoj-kekerino
+Projekt debugging
